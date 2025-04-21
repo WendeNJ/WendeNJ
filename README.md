@@ -22,15 +22,12 @@
 ###
 
 <div align="left">
-  <a href=https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="logo gmail" />
-  </a>
   <a href="https://www.linkedin.com/in/wenderson-mota-1270a52a1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="logo linkedin" />
   </a>
 </div>
 
-- 🎓 Estudante de Ciência da Computação (4º período)
+- 🎓 Estudante de Ciência da Computação
 - 💻 Com foco em Java e Python
 - 🧠 Gosto de lógica, resolução de problemas e tecnologia
 - 🌱 Estudando Spring e aprimorando meus conhecimentos em SQL e banco de dados
@@ -40,4 +37,3 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Animação de cobra" />

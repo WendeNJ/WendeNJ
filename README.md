@@ -25,7 +25,9 @@
   <a href="https://www.linkedin.com/in/wenderson-mota-1270a52a1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="logo linkedin" />
   </a>
+
 </div>
+
 
 - 🎓 Estudante de Ciência da Computação
 - 💻 Com foco em Java e Python
@@ -34,6 +36,11 @@
 - 🐧 Curiosidade: gosto de pinguins!
 
 ###
-
+<div align="left">
+  <a href="https://www.seulinkdocurriculo.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Meu%20Curr%C3%ADculo&logo=pdf&label=&color=4A90E2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="logo currículo" />
+  </a>
+  <p>Esse link leva ao meu currículo pessoal, onde você pode conferir minhas habilidades, experiência e projetos.</p>
+</div>
 <br clear="both">
 

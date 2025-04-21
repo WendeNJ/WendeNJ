@@ -40,7 +40,7 @@
   <a href="https://drive.google.com/drive/folders/1imqORS0IDNgfDL86qnLAypocria1wzI8?hl=pt-br" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Meu%20Curr%C3%ADculo&logo=pdf&label=&color=4A90E2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="logo currículo" />
   </a>
-  <p>Esse link leva ao meu currículo pessoal, onde você pode conferir minhas habilidades, experiência e projetos.</p>
+  
 </div>
 <br clear="both">
 

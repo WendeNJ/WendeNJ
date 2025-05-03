@@ -37,7 +37,7 @@
 
 ###
 <div align="left">
-  <a href="https://drive.google.com/drive/folders/1imqORS0IDNgfDL86qnLAypocria1wzI8?hl=pt-br" target="_blank">
+  <a href="https://drive.google.com/file/d/1yUqt5w3yRKJ3pd5BmSDN26ATxM-XJeMW/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Meu%20Curr%C3%ADculo&logo=pdf&label=&color=4A90E2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="logo currículo" />
   </a>
   

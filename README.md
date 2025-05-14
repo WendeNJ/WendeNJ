@@ -33,7 +33,7 @@
 - 💻 Com foco em Java e Python
 - 🧠 Gosto de lógica, resolução de problemas e tecnologia
 - 🌱 Estudando Spring e aprimorando meus conhecimentos em SQL e banco de dados
-- 🐧 Curiosidade: gosto de pinguins!
+
 
 ###
 <div align="left">

@@ -1,46 +1,61 @@
-<h2 align="left">Olá 👋! Meu nome é Wenderson e sou estudante de Ciência da Computação </h2>
+<h2 align="left">Olá 👋! Eu sou o Wenderson</h2>
+
+<p align="left">
+🎓 Estudante de <strong>Ciência da Computação</strong><br>
+💻 Estagiário em <strong>Desenvolvimento de Software</strong><br>
+🚀 Foco em <strong>Java, Spring Boot</strong> e <strong>Python</strong>
+</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WendeNJ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="gráfico de estatísticas"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WendeNJ&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="gráfico de linguagens"  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=WendeNJ&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=pt-br" 
+    height="150" 
+    alt="GitHub stats"  
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=WendeNJ&layout=compact&langs_count=6&theme=dracula&locale=pt-br" 
+    height="150" 
+    alt="Top languages"  
+  />
 </div>
 
 ###
+
+<h3 align="left">🛠️ Tecnologias</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="logo java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="logo python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="32" alt="Spring Boot" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="logo mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="logo spring" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="PostgreSQL" />
 </div>
 
 ###
+
+<h3 align="left">📌 Sobre mim</h3>
+
+- 🎓 Graduando em **Ciência da Computação**
+- 💻 Experiência prática com **APIs REST**, **integração front-end/back-end** e **banco de dados**
+- 🧠 Forte interesse em **lógica, resolução de problemas e desenvolvimento backend**
+- 🌱 Atualmente aprofundando conhecimentos em **Spring**, **SQL** e **arquitetura de sistemas**
+
+###
+
+<h3 align="left">🔗 Links</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/wenderson-mota-1270a52a1/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="logo linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
 
-</div>
-
-
-- 🎓 Estudante de Ciência da Computação
-- 💻 Com foco em Java e Python
-- 🧠 Gosto de lógica, resolução de problemas e tecnologia
-- 🌱 Estudando Spring e aprimorando meus conhecimentos em SQL e banco de dados
-
-
-###
-<div align="left">
-  <a href="file:///C:/Users/PREMIUM/Downloads/CurriculWende.2%20(1).pdf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Meu%20Curr%C3%ADculo&logo=pdf&label=&color=4A90E2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="logo currículo" />
+  <a href="https://docs.google.com/document/d/1crd95DB5g6SP4WujRjBMKIQJwWr6OtvNp78ExXjtlJE/edit" target="_blank">
+    <img src="https://img.shields.io/badge/Currículo-4A90E2?style=for-the-badge&logo=google-docs&logoColor=white" height="35" />
   </a>
-  
 </div>
-<br clear="both">
-

@@ -8,14 +8,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/wendersonmota/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:wendersonmotarauj@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.premiumdb.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 

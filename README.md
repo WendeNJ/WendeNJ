@@ -10,9 +10,8 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🎓 Cursando **Ciência da Computação** na UNIFAVIP Wyden
+- 🎓 Cursando **Ciência da Computação** 
 - 💼 Estagiário em desenvolvimento de software na **Inter Teresina**
-- 🚀 Desenvolvendo **sistema corporativo real em produção** com Java, Spring Boot e React
 - 🌱 Sempre aprendendo — mais de **130h** em bootcamps especializados em Java
 
 ---

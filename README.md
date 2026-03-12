@@ -1,111 +1,109 @@
-<h1 align="center">
-  Olá, eu sou Wenderson Carvalho 👋
-</h1>
+# Olá, sou Wenderson Mota 👋
 
-<p align="center">
-  <b>Desenvolvedor Back-end Java · Spring Boot · React</b><br/>
-  Apaixonado por criar soluções robustas e escaláveis que resolvem problemas reais
-</p>
+**Desenvolvedor Back-End Java** · Estagiário em Desenvolvimento de Software · Estudante de Ciência da Computação
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/wendersonmota/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:wendersonmotarauj@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendersonmota/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WendeNJ)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wendersonmotarauj@gmail.com)
 
 ---
 
 ## 🧑‍💻 Sobre mim
 
-- 🔭 Atualmente desenvolvendo sistemas corporativos com **Java + Spring Boot**
-- 🌐 Tenho projeto em produção real: **[Premium Distribuidora](https://www.premiumdb.com.br)**
-- 💡 Experiência em **APIs REST, JPA/Hibernate, SQL e React**
-- 🚀 Sempre buscando escrever código limpo, escalável e bem documentado
-- 🎯 Foco em backend robusto com integrações modernas
+- 🎓 Cursando **Ciência da Computação** na UNIFAVIP Wyden
+- 💼 Estagiário em desenvolvimento de software na **Inter Teresina**
+- 🚀 Desenvolvendo **sistema corporativo real em produção** com Java, Spring Boot e React
+- 🌱 Sempre aprendendo — mais de **130h** em bootcamps especializados em Java
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias & Ferramentas
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+**Back-end**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+**Front-end**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Banco de Dados**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📢 Sistema de Ouvidoria</h3>
-      <p align="center">
-        <a href="https://github.com/WendeNJ/ouvidoria" target="_blank">
-          <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-        <a href="https://www.premiumdb.com.br/ouvidoria" target="_blank">
-          <img src="https://img.shields.io/badge/Demo_Live-28a745?style=for-the-badge&logo=vercel&logoColor=white"/>
-        </a>
-      </p>
-      <p>Sistema corporativo em produção para registro e gestão de manifestações. Desenvolvido com <b>Java · Spring Boot · React</b> e atualmente em uso pela Premium Distribuidora.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🛒 Supermercado Java</h3>
-      <p align="center">
-        <a href="https://github.com/WendeNJ/Supermercado-java" target="_blank">
-          <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p>API REST completa para gerenciamento de estoque, produtos, fornecedores e vendas de supermercado. Arquitetura em camadas com <b>Spring Boot · JPA · H2</b>.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🤖 ChatBot FURIA</h3>
-      <p align="center">
-        <a href="https://github.com/WendeNJ/ChatBot" target="_blank">
-          <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p>Chatbot inteligente para o Telegram com integração ao <b>Gemini AI</b>, dados em tempo real da FURIA via <b>PandaScore API</b> e WebSocket para partidas ao vivo.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">💬 FURIA Chat UI</h3>
-      <p align="center">
-        <a href="https://github.com/WendeNJ/LandingPage" target="_blank">
-          <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p>Interface front-end moderna para o chatbot FURIA, com design gamer dark, responsividade total e animações CSS. Desenvolvido em <b>HTML5 · CSS3 · Grid · Flexbox</b>.</p>
-    </td>
-  </tr>
-</table>
+### 🏢 Sistema de Ouvidoria — Premium Distribuidora
+> Sistema corporativo completo para registro e gestão de manifestações · **Em produção**
+
+Canal oficial de comunicação entre clientes e colaboradores da empresa. Desenvolvido com Java 11 e Spring Boot no back-end, seguindo arquitetura em camadas, persistência com Spring Data JPA + Hibernate e interface React responsiva.
+
+🔗 [premiumdb.com.br/ouvidoria](https://www.premiumdb.com.br/ouvidoria)
+
+`Java` `Spring Boot` `Spring Data JPA` `React` `PostgreSQL`
+
+---
+
+### 🤖 [ChatBot FURIA — Telegram + Gemini AI](https://github.com/WendeNJ/ChatBot)
+> Chatbot inteligente no Telegram com IA generativa e dados em tempo real de e-sports
+
+- Integração com **Gemini AI** (Google) para respostas contextualizadas sobre a FURIA
+- Dados de partidas ao vivo via **PandaScore API** + **WebSocket**
+- Módulos separados por responsabilidade: IA, resultados, elenco, ao vivo, wallpapers
+
+`Python` `Telegram Bot API` `Gemini AI` `PandaScore API` `WebSocket`
+
+---
+
+### 🛒 [Supermercado Java — API REST](https://github.com/WendeNJ/Supermercado-java)
+> API REST completa para gerenciamento de supermercado com Spring Boot
+
+- CRUD de produtos, categorias, fornecedores e vendas
+- Controle de estoque com atualização automática após vendas
+- Arquitetura em camadas com DTO Pattern
+
+`Java` `Spring Boot` `Spring Data JPA` `Hibernate` `H2`
+
+---
+
+## 📜 Certificações
+
+| Curso | Instituição | Carga |
+|-------|-------------|-------|
+| Santander 2025 — Back-End com Java | Santander / DIO | 78h |
+| Java COMPLETO: POO + Projetos | Udemy — Nelio Alves | 54.5h |
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WendeNJ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendeNJ&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
+<div align="center">
+
+![Wenderson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WendeNJ&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WendeNJ&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-<p align="center">
-  <i>💼 Aberto a oportunidades como Desenvolvedor Back-end ou Full Stack</i>
-</p>
+<div align="center">
+  <sub>💡 Aberto a oportunidades de emprego em desenvolvimento back-end com Java</sub>
+</div>

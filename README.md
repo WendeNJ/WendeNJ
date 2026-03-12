@@ -10,8 +10,9 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🎓 Cursando **Ciência da Computação** 
+- 🎓 Cursando **Ciência da Computação** na UNIFAVIP Wyden
 - 💼 Estagiário em desenvolvimento de software na **Inter Teresina**
+- 🚀 Desenvolvendo **sistema corporativo real em produção** com Java, Spring Boot e React
 - 🌱 Sempre aprendendo — mais de **130h** em bootcamps especializados em Java
 
 ---
@@ -23,6 +24,8 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 

@@ -73,6 +73,17 @@ Canal oficial de comunicação entre clientes e colaboradores da empresa. Desenv
 `Python` `Telegram Bot API` `Gemini AI` `PandaScore API` `WebSocket`
 
 ---
+### 🧾 [Fiscal System — API REST](https://github.com/WendeNJ/FiscalSystem)
+> API REST completa para emissão e gestão de documentos fiscais eletrônicos com integração real à SEFAZ
+
+- Emissão, cancelamento, carta de correção e inutilização de **NF-e** com validação pré-transmissão
+- Suporte completo a **CT-e** (Conhecimento de Transporte) e **MDF-e** (Manifesto de Documentos Fiscais)
+- Integração via **SOAP/XML** com todos os autorizadores estaduais (SVRS, SVAN, SVC-AN, SVC-RS)
+- Assinatura digital com certificado A1 (PKCS12), **NFeDistribuicaoDFe** e Manifestação do Destinatário
+- Dashboard de KPIs com faturamento, impostos (ICMS, PIS, COFINS, IPI), top clientes e documentos recentes
+- Frontend em **React** com painel completo de testes e geração de DAMDFE em PDF
+
+`Java` `Spring Boot` `Spring Data JPA` `React` `PostgreSQL` `SOAP/XML` `Certificado Digital A1`
 
 ### 🛒 [Supermercado Java — API REST](https://github.com/WendeNJ/Supermercado-java)
 > API REST completa para gerenciamento de supermercado com Spring Boot
